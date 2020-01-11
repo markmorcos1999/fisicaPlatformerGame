@@ -8,3 +8,4 @@ To play the game:
 4. Run the code
 
 Please note that this is not the final game. I am still working on fixing aesthetic issues and the display window issue.
+This game uses the Fisica library created by Ricard Marxer
