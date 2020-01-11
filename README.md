@@ -1,5 +1,5 @@
 # fisicaPlatformerGame
-A 2D platformer game that features an animated character that tries to reach the locked box in 2 levels
+A 2D platformer game that features an animated character (Bruis) that tries to reach the locked box in 2 levels. Bruis must overcome enemies and obstacles using tiles such as gravity switchers and teleporters to escape this maze and win the game!
 
 To play the game:
 1. Install the Processing application for free on https://processing.org/download/
